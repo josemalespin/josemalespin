@@ -4,13 +4,13 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/ReactJS-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Fluter"/>
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Fluter"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/ReactJS-1DA1F2?style=flat-square&logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/.NET-purple?style=flat-square&logo=csharp&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Fluter"/>
+  <img src="https://img.shields.io/badge/SQL-purple?style=flat-square&logoColor=white" alt="SQL"/>
 </div>
 
 <!--
