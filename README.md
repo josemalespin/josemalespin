@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h3>Hello, I'm Jose 👋 </h3>
+  <p>I'm a full stack mobile and web developer.</p>
 </div>
 
 <div id="badges" align="center">
