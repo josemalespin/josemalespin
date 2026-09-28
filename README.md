@@ -3,8 +3,7 @@
   <p>Soy programador full stack desde el año 2012. He trabajado en varios proyectos en su mayoria aplicaciones moviles y web. Soy fanatico de la tecnologia en general.</p>
 </div>
 
-<h3>Las tecnologias con las que he trabajado:</h3>
-<hr></hr>
+<h2>Las tecnologias con las que he trabajado:</h2>
 <img src="https://skillicons.dev/icons?i=js,react,angular,bootstrap,tailwind,flutter,androidstudio,cs,dotnet,postman,jenkins,docker,git,linux" />
 
 <hr></hr>
