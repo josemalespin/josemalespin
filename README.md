@@ -1,17 +1,11 @@
 <div id="header" align="center">
-  <h3>Hello, I'm Jose 👋 </h3>
-  <p>I'm a full stack mobile and web developer.</p>
+  <h3>Hola, soy Jose 👋 </h3>
+  <p>Soy programador full stack desde el año 2012. He trabajado en varios proyectos en su mayoria aplicaciones moviles y web. Soy fanatico de la tecnologia en general.</p>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/ReactJS-1DA1F2?style=flat-square&logo=react&logoColor=white" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/.NET-purple?style=flat-square&logo=csharp&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Fluter"/>
-  <img src="https://img.shields.io/badge/SQL-purple?style=flat-square&logoColor=white" alt="SQL"/>
-</div>
+<h2>Las tecnologias con las que he trabajado:</h2>
+<hr></hr>
+<img src="https://skillicons.dev/icons?i=kotlin,dotnet,docker,git,linux,bash" />
 
 <!--
 **josemalespin/josemalespin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
